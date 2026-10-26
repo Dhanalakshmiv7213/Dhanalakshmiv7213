@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhanalakshmi%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Backend%20Engineer%20%7C%20Building%20LLM-Powered%20Apps&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Dhanalakshmi%20V&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%20%26%20Backend%20Engineer%20%7C%20Building%20LLM-Powered%20Apps&amp;descAlignY=62&amp;descSize=16&amp;v=2" width="100%"/>
 
 <a href="https://github.com/Dhanalakshmiv7213">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Dhanalakshmi+V;AI+%26+Backend+Engineer;Building+RAG+%26+LLM-powered+apps;Copyright-filed+creator+of+Vattezhuthu+Translator" alt="Typing SVG" />
@@ -91,15 +91,15 @@ class Dhanalakshmi:
 
 <div align="center">
   <a href="https://github.com/Dhanalakshmiv7213">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dhanalakshmiv7213&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dhanalakshmiv7213&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/Dhanalakshmiv7213">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanalakshmiv7213&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanalakshmiv7213&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhanalakshmiv7213&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Dhanalakshmiv7213&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -107,7 +107,7 @@ class Dhanalakshmi:
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanalakshmiv7213&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanalakshmiv7213&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true&amp;v=2" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -115,7 +115,7 @@ class Dhanalakshmi:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhanalakshmiv7213&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhanalakshmiv7213&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4&amp;v=2" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -219,8 +219,6 @@ class Dhanalakshmi:
 
 ⭐ *Thanks for stopping by! Let's build something great together.* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling&amp;v=2" width="100%"/>
 
 </div>
-
-A few things to review before you commit this. Your resume has no dates or impact numbers for the three internships, so I wrote the experience bullets as general responsibilities rather than inventing metrics. Replace them with your real work and numbers. The "Currently Learning" items and the location ("India") are also my assumptions, so edit them as needed. For the project links, I pointed them all to your profile, so swap in the individual repo URLs. Finally, the stats cards will fill in once your public and private contributions show up on GitHub.
